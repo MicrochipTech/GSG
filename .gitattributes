@@ -1,0 +1,2 @@
+EV29J11A/Linux/Linux.zip filter=lfs diff=lfs merge=lfs -text
+EV75M38A/Linux/Linux.zip filter=lfs diff=lfs merge=lfs -text
